@@ -8,7 +8,7 @@ This repository contains demo contracts and applications for using geo location 
 
 - `check-in-app`: App for checking in to a geo-location and viewing all checkin collectibles received.
 
-- `contracts`: Move contracts for on_chain_geo_v1. Testnet contract can be found [here].('https://explorer.aptoslabs.com/account/0x73aa6d84f37be89fd804376a78abd5e823f1811cc44ed5ad262759c9a72ce307/modules/code/on_chain_geo_v1/is_within_geo?network=testnet')
+- `contracts`: Move contracts for on_chain_geo_v1. Testnet contract can be found [here](https://explorer.aptoslabs.com/account/0x73aa6d84f37be89fd804376a78abd5e823f1811cc44ed5ad262759c9a72ce307/modules/code/on_chain_geo_v1/is_within_geo?network=testnet).
 
 - `server`: Sample server for sending all mint transactions via a single private key. This is necessary if you use an admin wallet in your contract.
 
