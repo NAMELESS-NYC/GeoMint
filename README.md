@@ -26,7 +26,7 @@ This repository contains demo contracts and applications for using geo location 
 
 ```sh
 
-git clone https://github.com/yourusername/on-chain-geo.git
+git clone https://github.com/NAMELESS-NYC/geo-claim.git
 
 cd on-chain-geo
 
