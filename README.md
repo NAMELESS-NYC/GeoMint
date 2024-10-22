@@ -1,4 +1,4 @@
-# Nameless Geo Claim
+# Nameless GeoMint
 
 This repository contains demo contracts and applications for using geo location to mint tokens on the Aptos blockchain. This is an MVP version intended to be building blocks for production level features in the future.
 
